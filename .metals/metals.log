@@ -1,0 +1,1437 @@
+2025.06.12 13:46:02 INFO  Started: Metals version 1.6.0 in folders '/Users/achrafibnmrabet/hands-on/bforbank/demo' for client Cursor 1.96.2.[0m
+2025.06.12 13:46:02 INFO  no build target found for /Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/TopologyConfig.java. Using fallback presentation compiler.[0m
+2025.06.12 13:46:02 INFO  no build target found for /Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/providers/SwapProvidersClient.java. Using fallback presentation compiler.[0m
+2025.06.12 13:46:02 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:02 INFO  No running Bloop server found, starting one.[0m
+2025.06.12 13:46:03 INFO  Starting compilation server[0m
+2025.06.12 13:46:03 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:04 INFO  time: Connected to build server in 1.84s[0m
+2025.06.12 13:46:04 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:11 INFO  time: indexed workspace in 6.66s[0m
+2025.06.12 13:46:11 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:11 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:11 INFO  time: compiled demo in 0.67s[0m
+2025.06.12 13:46:39 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:46:39 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:46:39 INFO  Shut down connection with build server.[0m
+2025.06.12 13:46:39 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:39 INFO  Found a Bloop server running[0m
+2025.06.12 13:46:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:39 INFO  time: Connected to build server in 0.13s[0m
+2025.06.12 13:46:39 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:40 INFO  time: indexed workspace in 1.55s[0m
+2025.06.12 13:46:40 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:40 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:40 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:46:45 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:46:45 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:46:45 INFO  Shut down connection with build server.[0m
+2025.06.12 13:46:45 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:45 INFO  Found a Bloop server running[0m
+2025.06.12 13:46:45 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:45 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:46:45 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:46 INFO  time: indexed workspace in 1.21s[0m
+2025.06.12 13:46:46 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:46 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:46 INFO  time: compiled demo in 0.41s[0m
+2025.06.12 13:46:52 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:46:52 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:46:52 INFO  Shut down connection with build server.[0m
+2025.06.12 13:46:52 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:52 INFO  Found a Bloop server running[0m
+2025.06.12 13:46:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:52 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:46:52 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:53 INFO  time: indexed workspace in 1.48s[0m
+2025.06.12 13:46:53 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:53 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:53 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 13:46:54 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:46:54 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:46:54 INFO  Shut down connection with build server.[0m
+Jun 12, 2025 1:46:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+WARNING: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:455)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:179)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:171)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1453)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1487)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:61)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:55)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.06.12 13:46:54 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:54 INFO  Scala test classes not supported by server[0m
+2025.06.12 13:46:54 INFO  Found a Bloop server running[0m
+2025.06.12 13:46:53 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:54 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:46:53 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:55 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:55 INFO  time: indexed workspace in 1.22s[0m
+2025.06.12 13:46:55 INFO  Deduplicating compilation of demo from bsp client 'Metals 1.6.0' (since 1.257s)[0m
+2025.06.12 13:46:55 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:55 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:55 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:55 INFO  time: compiled demo in 0.26s[0m
+2025.06.12 13:46:55 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:46:55 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:46:56 INFO  Shut down connection with build server.[0m
+2025.06.12 13:46:56 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:46:56 INFO  Found a Bloop server running[0m
+2025.06.12 13:46:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:46:56 INFO  time: Connected to build server in 0.18s[0m
+2025.06.12 13:46:56 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:46:57 INFO  time: indexed workspace in 1.44s[0m
+2025.06.12 13:46:57 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:46:57 WARN  javac exited with exit code 1[0m
+2025.06.12 13:46:57 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 13:47:02 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:47:02 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:47:02 INFO  Shut down connection with build server.[0m
+2025.06.12 13:47:02 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:47:02 INFO  Found a Bloop server running[0m
+2025.06.12 13:47:02 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:47:02 INFO  time: Connected to build server in 0.14s[0m
+2025.06.12 13:47:02 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:47:03 INFO  time: indexed workspace in 1.53s[0m
+2025.06.12 13:47:03 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:03 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:03 INFO  time: compiled demo in 0.4s[0m
+Jun 12, 2025 1:47:11 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.12 13:47:26 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:26 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:26 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:47:30 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:30 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:30 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:47:33 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:33 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:33 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:47:49 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:49 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:49 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:47:53 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:53 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:53 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:47:55 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:47:55 WARN  javac exited with exit code 1[0m
+2025.06.12 13:47:55 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:48:15 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:15 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:15 INFO  time: compiled demo in 0.32s[0m
+2025.06.12 13:48:19 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:19 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:19 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:48:21 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:21 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:21 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 13:48:23 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:23 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:23 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:48:24 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:24 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:24 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:48:30 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:30 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:30 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:48:33 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:33 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:33 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:48:35 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:35 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:35 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 13:48:37 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:37 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:37 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 13:48:39 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:39 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:39 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:48:42 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:42 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:42 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 13:48:46 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:46 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:46 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:48:49 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:48:49 WARN  javac exited with exit code 1[0m
+2025.06.12 13:48:49 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:49:18 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:18 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:18 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:49:20 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:20 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:20 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:49:21 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:21 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:21 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:49:28 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:28 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:28 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 13:49:31 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:31 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:31 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:49:35 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:35 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:35 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:49:37 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:37 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:37 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:49:41 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:41 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:41 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:49:43 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:43 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:43 INFO  time: compiled demo in 0.32s[0m
+2025.06.12 13:49:53 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:49:53 WARN  javac exited with exit code 1[0m
+2025.06.12 13:49:53 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:50:20 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:20 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:20 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:50:24 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:24 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:24 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:50:28 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:28 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:28 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 13:50:35 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:35 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:35 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:50:37 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:37 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:37 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 13:50:50 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:50 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:50 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:50:57 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:50:57 WARN  javac exited with exit code 1[0m
+2025.06.12 13:50:57 INFO  time: compiled demo in 0.33s[0m
+2025.06.12 13:51:04 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:51:04 WARN  javac exited with exit code 1[0m
+2025.06.12 13:51:04 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:51:08 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:51:08 WARN  javac exited with exit code 1[0m
+2025.06.12 13:51:08 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 13:51:12 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:51:12 WARN  javac exited with exit code 1[0m
+2025.06.12 13:51:12 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:51:13 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:51:13 WARN  javac exited with exit code 1[0m
+2025.06.12 13:51:13 INFO  time: compiled demo in 0.61s[0m
+2025.06.12 13:52:03 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:52:03 WARN  javac exited with exit code 1[0m
+2025.06.12 13:52:03 INFO  time: compiled demo in 0.64s[0m
+2025.06.12 13:52:05 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:52:05 WARN  javac exited with exit code 1[0m
+2025.06.12 13:52:05 INFO  time: compiled demo in 0.59s[0m
+Jun 12, 2025 1:52:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1013
+2025.06.12 13:52:59 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:52:59 WARN  javac exited with exit code 1[0m
+2025.06.12 13:52:59 INFO  time: compiled demo in 0.64s[0m
+Jun 12, 2025 1:53:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/kafka-streams-3.9.1.jar/org.apache.kafka.streams.kstream/KStream.class?%3Ddemo%2F%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-streams%5C%2F3.9.1%5C%2Fkafka-streams-3.9.1.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.kafka%3D%2F%3D%2Fmaven.artifactId%3D%2Fkafka-streams%3D%2F%3D%2Fmaven.version%3D%2F3.9.1%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.kafka.streams.kstream%28KStream.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jun 12, 2025 1:53:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/kafka-streams-3.9.1.jar/org.apache.kafka.streams.kstream/KeyValueMapper.class?%3Ddemo%2F%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-streams%5C%2F3.9.1%5C%2Fkafka-streams-3.9.1.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.kafka%3D%2F%3D%2Fmaven.artifactId%3D%2Fkafka-streams%3D%2F%3D%2Fmaven.version%3D%2F3.9.1%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.kafka.streams.kstream%28KeyValueMapper.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jun 12, 2025 1:53:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/kafka-streams-3.9.1.jar/org.apache.kafka.streams.kstream/KStream.class?%3Ddemo%2F%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-streams%5C%2F3.9.1%5C%2Fkafka-streams-3.9.1.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.kafka%3D%2F%3D%2Fmaven.artifactId%3D%2Fkafka-streams%3D%2F%3D%2Fmaven.version%3D%2F3.9.1%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.kafka.streams.kstream%28KStream.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2025.06.12 13:53:44 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:53:44 WARN  javac exited with exit code 1[0m
+2025.06.12 13:53:44 INFO  time: compiled demo in 0.61s[0m
+2025.06.12 13:53:45 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:53:45 WARN  javac exited with exit code 1[0m
+2025.06.12 13:53:45 INFO  time: compiled demo in 0.59s[0m
+2025.06.12 13:53:50 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:53:50 WARN  javac exited with exit code 1[0m
+2025.06.12 13:53:50 INFO  time: compiled demo in 0.58s[0m
+2025.06.12 13:54:16 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:54:16 WARN  javac exited with exit code 1[0m
+2025.06.12 13:54:16 INFO  time: compiled demo in 0.6s[0m
+2025.06.12 13:54:19 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:54:19 WARN  javac exited with exit code 1[0m
+2025.06.12 13:54:19 INFO  time: compiled demo in 0.59s[0m
+2025.06.12 13:54:32 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:54:32 WARN  javac exited with exit code 1[0m
+2025.06.12 13:54:32 INFO  time: compiled demo in 0.59s[0m
+2025.06.12 13:56:18 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:56:18 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:56:18 INFO  Shut down connection with build server.[0m
+2025.06.12 13:56:18 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:56:18 INFO  Found a Bloop server running[0m
+2025.06.12 13:56:18 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:56:18 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:56:18 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:56:19 INFO  time: indexed workspace in 1.26s[0m
+2025.06.12 13:56:19 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:56:19 WARN  javac exited with exit code 1[0m
+2025.06.12 13:56:19 INFO  time: compiled demo in 0.66s[0m
+2025.06.12 13:57:12 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:57:12 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:57:12 INFO  Shut down connection with build server.[0m
+2025.06.12 13:57:12 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:57:12 INFO  Found a Bloop server running[0m
+2025.06.12 13:57:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:57:13 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:57:12 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:57:14 INFO  time: indexed workspace in 1.35s[0m
+2025.06.12 13:57:14 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:14 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:14 INFO  time: compiled demo in 0.71s[0m
+2025.06.12 13:57:15 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 13:57:15 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 13:57:15 INFO  Shut down connection with build server.[0m
+2025.06.12 13:57:14 INFO  Scala test classes not supported by server[0m
+2025.06.12 13:57:15 INFO  Attempting to connect to the build server...[0m
+2025.06.12 13:57:15 INFO  Found a Bloop server running[0m
+2025.06.12 13:57:14 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 13:57:15 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 13:57:14 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 13:57:16 INFO  time: indexed workspace in 1.38s[0m
+2025.06.12 13:57:16 INFO  compiling demo (2 java sources)[0m
+Jun 12, 2025 1:57:16 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.12 13:57:16 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:16 INFO  time: compiled demo in 0.71s[0m
+2025.06.12 13:57:40 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:40 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:40 INFO  time: compiled demo in 0.6s[0m
+2025.06.12 13:57:42 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:42 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:42 INFO  time: compiled demo in 0.62s[0m
+2025.06.12 13:57:49 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:49 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:49 INFO  time: compiled demo in 0.59s[0m
+2025.06.12 13:57:51 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:51 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:51 INFO  time: compiled demo in 0.69s[0m
+2025.06.12 13:57:54 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:54 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:54 INFO  time: compiled demo in 0.58s[0m
+2025.06.12 13:57:57 INFO  compiling demo (2 java sources)[0m
+2025.06.12 13:57:57 WARN  javac exited with exit code 1[0m
+2025.06.12 13:57:57 INFO  time: compiled demo in 0.6s[0m
+2025.06.12 13:58:12 INFO  Created report: Optional[file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java][0m
+2025.06.12 13:58:12 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 13:58:12 INFO  compiling demo (13 java sources)[0m
+2025.06.12 13:58:12 WARN  javac exited with exit code 1[0m
+2025.06.12 13:58:12 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 13:58:17 INFO  compiling demo (13 java sources)[0m
+2025.06.12 13:58:17 WARN  javac exited with exit code 1[0m
+2025.06.12 13:58:17 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 13:59:32 INFO  compiling demo (13 java sources)[0m
+2025.06.12 13:59:32 WARN  javac exited with exit code 1[0m
+2025.06.12 13:59:32 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 13:59:34 INFO  compiling demo (13 java sources)[0m
+2025.06.12 13:59:34 WARN  javac exited with exit code 1[0m
+2025.06.12 13:59:34 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:01:06 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:01:06 WARN  javac exited with exit code 1[0m
+2025.06.12 14:01:06 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 14:01:08 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:01:08 WARN  javac exited with exit code 1[0m
+2025.06.12 14:01:08 INFO  time: compiled demo in 0.71s[0m
+2025.06.12 14:02:29 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:29 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:29 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 14:02:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:30 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:30 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:02:31 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:31 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:31 INFO  time: compiled demo in 0.7s[0m
+2025.06.12 14:02:44 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:44 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:44 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 14:02:50 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:50 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:50 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:02:54 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:54 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:54 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:02:56 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:56 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:56 INFO  time: compiled demo in 0.71s[0m
+2025.06.12 14:02:58 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:02:58 WARN  javac exited with exit code 1[0m
+2025.06.12 14:02:58 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:03:00 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:00 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:00 INFO  time: compiled demo in 0.71s[0m
+2025.06.12 14:03:09 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:09 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:09 INFO  time: compiled demo in 0.74s[0m
+2025.06.12 14:03:13 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:13 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:13 INFO  time: compiled demo in 0.74s[0m
+2025.06.12 14:03:15 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:15 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:15 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 14:03:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:30 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:30 INFO  time: compiled demo in 0.7s[0m
+2025.06.12 14:03:32 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:32 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:32 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 14:03:35 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:03:35 WARN  javac exited with exit code 1[0m
+2025.06.12 14:03:35 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:04:45 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:04:45 WARN  javac exited with exit code 1[0m
+2025.06.12 14:04:45 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:04:46 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:04:46 WARN  javac exited with exit code 1[0m
+2025.06.12 14:04:46 INFO  time: compiled demo in 0.69s[0m
+2025.06.12 14:05:05 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:05:05 WARN  javac exited with exit code 1[0m
+2025.06.12 14:05:05 INFO  time: compiled demo in 0.74s[0m
+2025.06.12 14:06:11 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:06:11 WARN  javac exited with exit code 1[0m
+2025.06.12 14:06:11 INFO  time: compiled demo in 0.69s[0m
+2025.06.12 14:06:25 INFO  Created report: Optional[file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/TopologyConfig.java][0m
+2025.06.12 14:06:25 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/TopologyConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_14-06-25-904.md")[0m
+2025.06.12 14:06:25 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:06:25 WARN  javac exited with exit code 1[0m
+2025.06.12 14:06:25 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 14:06:29 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/TopologyConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_14-06-25-904.md")[0m
+2025.06.12 14:06:29 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:06:29 WARN  javac exited with exit code 1[0m
+2025.06.12 14:06:29 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 14:06:30 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/TopologyConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_14-06-25-904.md")[0m
+2025.06.12 14:06:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:06:30 WARN  javac exited with exit code 1[0m
+2025.06.12 14:06:30 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:06:31 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:06:31 WARN  javac exited with exit code 1[0m
+2025.06.12 14:06:31 INFO  time: compiled demo in 0.7s[0m
+Jun 12, 2025 2:06:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/kafka-streams-3.8.0.jar/org.apache.kafka.streams/StreamsConfig.class?%3Ddemo%2F%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-streams%5C%2F3.8.0%5C%2Fkafka-streams-3.8.0.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fjavadoc_location%3D%2Fjar%3Afile%3A%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-streams%5C%2F3.8.0%5C%2Fkafka-streams-3.8.0-javadoc.jar%5C%21%5C%2F%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.kafka%3D%2F%3D%2Fmaven.artifactId%3D%2Fkafka-streams%3D%2F%3D%2Fmaven.version%3D%2F3.8.0%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.kafka.streams%28StreamsConfig.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+Jun 12, 2025 2:06:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "metals/didFocusTextDocument",
+  "params": [
+    "jdt://contents/kafka-clients-3.9.1.jar/org.apache.kafka.clients/CommonClientConfigs.class?%3Ddemo%2F%5C%2FUsers%5C%2Fachrafibnmrabet%5C%2F.m2%5C%2Frepository%5C%2Forg%5C%2Fapache%5C%2Fkafka%5C%2Fkafka-clients%5C%2F3.9.1%5C%2Fkafka-clients-3.9.1.jar%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3D%2Fmaven.groupId%3D%2Forg.apache.kafka%3D%2F%3D%2Fmaven.artifactId%3D%2Fkafka-clients%3D%2F%3D%2Fmaven.version%3D%2F3.9.1%3D%2F%3D%2Fmaven.scope%3D%2Fcompile%3D%2F%3D%2Fmaven.pomderived%3D%2Ftrue%3D%2F%3Corg.apache.kafka.clients%28CommonClientConfigs.class"
+  ]
+}
+java.nio.file.FileSystemNotFoundException: Provider "jdt" not installed
+	at java.base/java.nio.file.Path.of(Path.java:213)
+	at java.base/java.nio.file.Paths.get(Paths.java:98)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionURIMtags.toAbsolutePath(MtagsEnrichments.scala:130)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionStringMtags.toAbsolutePath(MtagsEnrichments.scala:190)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:787)
+	at scala.meta.internal.metals.MetalsEnrichments$XtensionString.toAbsolutePath(MetalsEnrichments.scala:784)
+	at scala.meta.internal.metals.WorkspaceLspService.didFocus(WorkspaceLspService.scala:786)
+	at scala.meta.metals.lsp.DelegatingScalaService.didFocus(DelegatingScalaService.scala:42)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:7:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.KeyValue;
+                               ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:8:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.StreamsBuilder;
+                               ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:9:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.StreamsConfig;
+                               ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:10:40: stale bloop error:  error: package org.apache.kafka.streams.kstream does not exist
+import org.apache.kafka.streams.kstream.Consumed;
+                                       ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:34:35: stale bloop error:  error: cannot find symbol
+    public void buildSwapTopology(StreamsBuilder builder, TopologyConfig config) {
+                                  ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:28:17: stale bloop error:  error: cannot find symbol
+                StreamsConfig.APPLICATION_ID_CONFIG,"",
+                ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:29:17: stale bloop error:  error: cannot find symbol
+                StreamsConfig.BOOTSTRAP_SERVERS_CONFIG,""
+                ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:37:13: stale bloop error:  error: cannot find symbol
+            Consumed.with(Serdes.String(), Serdes.String())
+            ^[0m
+2025.06.12 14:07:18 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:40:24: stale bloop error:  error: cannot find symbol
+            return new KeyValue<>(k, v);
+                       ^[0m
+2025.06.12 14:07:20 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:07:20 WARN  javac exited with exit code 1[0m
+2025.06.12 14:07:20 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:07:23 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:7:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.KeyValue;
+                               ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:8:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.StreamsBuilder;
+                               ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:9:32: stale bloop error:  error: package org.apache.kafka.streams does not exist
+import org.apache.kafka.streams.StreamsConfig;
+                               ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:10:40: stale bloop error:  error: package org.apache.kafka.streams.kstream does not exist
+import org.apache.kafka.streams.kstream.Consumed;
+                                       ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:34:35: stale bloop error:  error: cannot find symbol
+    public void buildSwapTopology(StreamsBuilder builder, TopologyConfig config) {
+                                  ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:28:17: stale bloop error:  error: cannot find symbol
+                StreamsConfig.APPLICATION_ID_CONFIG,baseConfig,
+                ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:29:17: stale bloop error:  error: cannot find symbol
+                StreamsConfig.BOOTSTRAP_SERVERS_CONFIG,""
+                ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:37:13: stale bloop error:  error: cannot find symbol
+            Consumed.with(Serdes.String(), Serdes.String())
+            ^[0m
+2025.06.12 14:07:23 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:40:24: stale bloop error:  error: cannot find symbol
+            return new KeyValue<>(k, v);
+                       ^[0m
+2025.06.12 14:07:23 WARN  javac exited with exit code 1[0m
+2025.06.12 14:07:23 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 14:07:26 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:07:26 WARN  javac exited with exit code 1[0m
+2025.06.12 14:07:26 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:07:28 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:07:28 WARN  javac exited with exit code 1[0m
+2025.06.12 14:07:28 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:07:35 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:07:35 WARN  javac exited with exit code 1[0m
+2025.06.12 14:07:35 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:10:11 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:11 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:11 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 14:10:13 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:13 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:13 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 14:10:21 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:21 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:21 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:10:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:24 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:24 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:10:27 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:27 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:27 INFO  time: compiled demo in 0.72s[0m
+2025.06.12 14:10:31 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:31 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:31 INFO  time: compiled demo in 0.74s[0m
+2025.06.12 14:10:32 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:32 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:32 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:10:33 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:10:33 WARN  javac exited with exit code 1[0m
+2025.06.12 14:10:33 INFO  time: compiled demo in 0.72s[0m
+Jun 12, 2025 2:11:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2405
+2025.06.12 14:11:28 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:11:28 WARN  javac exited with exit code 1[0m
+2025.06.12 14:11:28 INFO  time: compiled demo in 0.69s[0m
+Jun 12, 2025 2:12:50 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.12 14:13:39 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:13:39 WARN  javac exited with exit code 1[0m
+2025.06.12 14:13:39 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 14:13:42 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:13:42 WARN  javac exited with exit code 1[0m
+2025.06.12 14:13:42 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 14:13:43 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:13:43 WARN  javac exited with exit code 1[0m
+2025.06.12 14:13:43 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:13:47 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:13:47 WARN  javac exited with exit code 1[0m
+2025.06.12 14:13:47 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 14:28:34 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:28:34 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:34 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:34 INFO  time: compiled demo in 0.49s[0m
+2025.06.12 14:28:39 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:39 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:39 INFO  time: compiled demo in 0.88s[0m
+2025.06.12 14:28:42 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:28:42 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:42 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:42 INFO  time: compiled demo in 0.45s[0m
+2025.06.12 14:28:43 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:28:43 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:43 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:43 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 14:28:44 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:26:76: stale bloop error:  error: <identifier> expected
+    public StreamsBuilderFactoryBean swapFactory(@ValueString applicationId) {
+                                                                           ^[0m
+2025.06.12 14:28:46 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:46 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:46 INFO  time: compiled demo in 0.96s[0m
+2025.06.12 14:28:53 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:28:53 WARN  javac exited with exit code 1[0m
+2025.06.12 14:28:53 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 14:29:06 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:06 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:06 INFO  time: compiled demo in 0.94s[0m
+2025.06.12 14:29:06 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:07 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:07 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:29:12 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:12 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:12 INFO  time: compiled demo in 0.82s[0m
+2025.06.12 14:29:13 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:13 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:13 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:29:16 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:16 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:16 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:16 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 14:29:18 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:18 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:18 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:18 INFO  time: compiled demo in 0.42s[0m
+2025.06.12 14:29:26 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:26 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:26 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:26 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 14:29:30 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:30 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:30 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:29:37 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:37 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:37 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:37 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 14:29:43 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:43 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:43 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:43 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 14:29:47 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:47 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:47 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:47 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:29:48 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:29:47 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:29:48 WARN  javac exited with exit code 1[0m
+2025.06.12 14:29:48 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 14:30:01 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:30:01 WARN  javac exited with exit code 1[0m
+2025.06.12 14:30:01 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:30:57 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:30:57 WARN  javac exited with exit code 1[0m
+2025.06.12 14:30:57 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 14:31:53 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:31:53 WARN  javac exited with exit code 1[0m
+2025.06.12 14:31:53 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:31:55 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:31:55 WARN  javac exited with exit code 1[0m
+2025.06.12 14:31:55 INFO  time: compiled demo in 0.74s[0m
+2025.06.12 14:31:58 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:31:58 WARN  javac exited with exit code 1[0m
+2025.06.12 14:31:58 INFO  time: compiled demo in 0.73s[0m
+2025.06.12 14:31:59 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:31:59 WARN  javac exited with exit code 1[0m
+2025.06.12 14:31:59 INFO  time: compiled demo in 0.78s[0m
+Jun 12, 2025 2:32:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3140
+2025.06.12 14:33:00 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:00 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:00 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 14:33:03 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_13-58-12-077.md")[0m
+2025.06.12 14:33:03 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:03 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:03 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:33:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/streams/competerStream.java:36:82: stale bloop error:  error: <identifier> expected
+    public void buildSwapTopology(StreamsBuilder builder, @ValueString inputTopic) {
+                                                                                 ^[0m
+2025.06.12 14:33:07 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:07 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:07 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 14:33:10 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:10 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:10 INFO  time: compiled demo in 0.75s[0m
+2025.06.12 14:33:11 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:11 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:11 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 14:33:18 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:18 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:18 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 14:33:22 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:22 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:22 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 14:33:37 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:37 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:37 INFO  time: compiled demo in 0.77s[0m
+Jun 12, 2025 2:33:53 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3360
+2025.06.12 14:33:53 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:53 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:53 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 14:33:59 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:33:59 WARN  javac exited with exit code 1[0m
+2025.06.12 14:33:59 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 14:34:04 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:04 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:04 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 14:34:10 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:10 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:10 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 14:34:13 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:13 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:13 INFO  time: compiled demo in 0.34s[0m
+2025.06.12 14:34:16 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:16 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:16 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:34:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:24 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:24 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 14:34:25 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:34:25 WARN  javac exited with exit code 1[0m
+2025.06.12 14:34:25 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 14:35:29 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:35:29 WARN  javac exited with exit code 1[0m
+2025.06.12 14:35:29 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 14:35:49 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:35:49 WARN  javac exited with exit code 1[0m
+2025.06.12 14:35:49 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 14:35:56 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:35:56 WARN  javac exited with exit code 1[0m
+2025.06.12 14:35:56 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 14:36:05 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:36:05 WARN  javac exited with exit code 1[0m
+2025.06.12 14:36:05 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:37:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:37:24 WARN  javac exited with exit code 1[0m
+2025.06.12 14:37:24 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 14:37:25 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:37:25 WARN  javac exited with exit code 1[0m
+2025.06.12 14:37:25 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 14:37:37 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:37:37 WARN  javac exited with exit code 1[0m
+2025.06.12 14:37:37 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:38:34 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:38:34 WARN  javac exited with exit code 1[0m
+2025.06.12 14:38:34 INFO  time: compiled demo in 0.89s[0m
+2025.06.12 14:39:16 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:16 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:16 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 14:39:21 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:21 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:21 INFO  time: compiled demo in 0.47s[0m
+2025.06.12 14:39:22 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:22 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:22 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 14:39:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:24 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:24 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 14:39:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:26 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:26 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 14:39:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:30 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:30 INFO  time: compiled demo in 0.88s[0m
+2025.06.12 14:39:38 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:38 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:38 INFO  time: compiled demo in 0.92s[0m
+2025.06.12 14:39:49 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:39:49 WARN  javac exited with exit code 1[0m
+2025.06.12 14:39:49 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 14:40:02 INFO  compiling demo (13 java sources)[0m
+2025.06.12 14:40:02 WARN  javac exited with exit code 1[0m
+2025.06.12 14:40:02 INFO  time: compiled demo in 0.89s[0m
+Jun 12, 2025 3:23:57 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 12, 2025 3:30:37 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.06.12 15:31:51 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:31:51 WARN  javac exited with exit code 1[0m
+2025.06.12 15:31:51 INFO  time: compiled demo in 0.98s[0m
+2025.06.12 15:32:03 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:03 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:03 INFO  time: compiled demo in 0.85s[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:9: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+        ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:26: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+                         ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:13:3: stale bloop error:  error: cannot find symbol
+	@Bean
+  ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:15:10: stale bloop error:  error: cannot find symbol
+		return TopicBuilder.name("topic2").partitions(1).replicas(1).build();
+         ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:9: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+        ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:26: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+                         ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:13:3: stale bloop error:  error: cannot find symbol
+	@Bean
+  ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:15:10: stale bloop error:  error: cannot find symbol
+		return TopicBuilder.name("topic2").partitions(1).replicas(1).build();
+         ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:9: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+        ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:26: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+                         ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:13:3: stale bloop error:  error: cannot find symbol
+	@Bean
+  ^[0m
+2025.06.12 15:32:04 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:15:10: stale bloop error:  error: cannot find symbol
+		return TopicBuilder.name("topic2").partitions(1).replicas(1).build();
+         ^[0m
+2025.06.12 15:32:05 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:9: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+        ^[0m
+2025.06.12 15:32:05 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:14:26: stale bloop error:  error: cannot find symbol
+	public NewTopic topic2(@Value("${inputTopic}") String inputTopic) {
+                         ^[0m
+2025.06.12 15:32:05 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:13:3: stale bloop error:  error: cannot find symbol
+	@Bean
+  ^[0m
+2025.06.12 15:32:05 INFO  file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java:15:10: stale bloop error:  error: cannot find symbol
+		return TopicBuilder.name("topic2").partitions(1).replicas(1).build();
+         ^[0m
+2025.06.12 15:32:07 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:07 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:07 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 15:32:08 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:08 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:08 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 15:32:11 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:11 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:11 INFO  time: compiled demo in 0.84s[0m
+2025.06.12 15:32:15 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:15 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:15 INFO  time: compiled demo in 0.94s[0m
+2025.06.12 15:32:19 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:19 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:19 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 15:32:24 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:32:24 WARN  javac exited with exit code 1[0m
+2025.06.12 15:32:24 INFO  time: compiled demo in 0.76s[0m
+Jun 12, 2025 3:34:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4200
+2025.06.12 15:36:17 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:17 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:17 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 15:36:23 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:23 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:23 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 15:36:30 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:30 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:30 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:36:32 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:32 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:32 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 15:36:44 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:44 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:44 INFO  time: compiled demo in 0.47s[0m
+2025.06.12 15:36:53 INFO  Created report: Optional[file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/SwapController.java][0m
+2025.06.12 15:36:53 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/SwapController.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-36-53-207.md")[0m
+2025.06.12 15:36:53 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:53 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:53 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 15:36:58 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/SwapController.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-36-53-207.md")[0m
+2025.06.12 15:36:58 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:36:58 WARN  javac exited with exit code 1[0m
+2025.06.12 15:36:58 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:37:04 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:04 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:04 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 15:37:10 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/SwapController.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-36-53-207.md")[0m
+2025.06.12 15:37:10 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:10 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:10 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 15:37:12 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/SwapController.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-36-53-207.md")[0m
+2025.06.12 15:37:12 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:12 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:12 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:37:15 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:15 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:15 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:37:27 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:27 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:27 INFO  time: compiled demo in 0.42s[0m
+2025.06.12 15:37:31 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:31 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:31 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 15:37:34 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:34 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:34 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 15:37:35 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:35 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:35 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:37:38 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:38 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:38 INFO  time: compiled demo in 0.43s[0m
+2025.06.12 15:37:39 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:39 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:39 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:37:39 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:39 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:39 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:37:43 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:43 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:43 INFO  time: compiled demo in 0.43s[0m
+2025.06.12 15:37:48 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:48 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:48 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:37:50 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:50 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:50 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 15:37:53 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:53 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:53 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:37:55 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:37:55 WARN  javac exited with exit code 1[0m
+2025.06.12 15:37:55 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 15:38:02 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:38:02 WARN  javac exited with exit code 1[0m
+2025.06.12 15:38:02 INFO  time: compiled demo in 0.82s[0m
+2025.06.12 15:38:03 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:38:03 WARN  javac exited with exit code 1[0m
+2025.06.12 15:38:03 INFO  time: compiled demo in 0.83s[0m
+2025.06.12 15:39:49 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:39:49 WARN  javac exited with exit code 1[0m
+2025.06.12 15:39:49 INFO  time: compiled demo in 0.85s[0m
+2025.06.12 15:40:05 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:40:05 WARN  javac exited with exit code 1[0m
+2025.06.12 15:40:05 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 15:40:12 INFO  compiling demo (13 java sources)[0m
+2025.06.12 15:40:12 WARN  javac exited with exit code 1[0m
+2025.06.12 15:40:12 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 15:41:36 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:41:36 WARN  javac exited with exit code 1[0m
+2025.06.12 15:41:36 INFO  time: compiled demo in 0.9s[0m
+2025.06.12 15:41:41 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:41:41 WARN  javac exited with exit code 1[0m
+2025.06.12 15:41:41 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 15:41:44 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:41:44 WARN  javac exited with exit code 1[0m
+2025.06.12 15:41:44 INFO  time: compiled demo in 0.86s[0m
+2025.06.12 15:41:45 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:41:45 WARN  javac exited with exit code 1[0m
+2025.06.12 15:41:45 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 15:41:53 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:41:53 WARN  javac exited with exit code 1[0m
+2025.06.12 15:41:53 INFO  time: compiled demo in 0.89s[0m
+2025.06.12 15:42:21 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:21 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:21 INFO  time: compiled demo in 0.87s[0m
+2025.06.12 15:42:27 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:27 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:27 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 15:42:29 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:29 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:29 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 15:42:32 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:32 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:32 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 15:42:35 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:35 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:35 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 15:42:39 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:39 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:39 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 15:42:41 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:41 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:41 INFO  time: compiled demo in 0.83s[0m
+2025.06.12 15:42:45 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:45 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:45 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 15:42:50 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:50 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:50 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 15:42:58 INFO  Created report: Optional[file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java][0m
+2025.06.12 15:42:58 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:42:58 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:42:58 WARN  javac exited with exit code 1[0m
+2025.06.12 15:42:58 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:43:03 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:03 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:03 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:03 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:43:04 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:04 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:04 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:04 INFO  time: compiled demo in 0.37s[0m
+Jun 12, 2025 3:43:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5122
+2025.06.12 15:43:23 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:23 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:23 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:23 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 15:43:28 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:28 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:28 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:28 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 15:43:34 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:34 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:34 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:34 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 15:43:35 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:35 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:35 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:35 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 15:43:42 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:42 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:42 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:42 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 15:43:48 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:43:48 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:43:48 WARN  javac exited with exit code 1[0m
+2025.06.12 15:43:48 INFO  time: compiled demo in 0.4s[0m
+2025.06.12 15:44:05 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:44:05 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:05 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:05 INFO  time: compiled demo in 0.38s[0m
+Jun 12, 2025 3:44:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5219
+2025.06.12 15:44:13 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:44:13 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:13 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:13 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 15:44:28 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/services/ProducerConfig.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_15-42-58-729.md")[0m
+2025.06.12 15:44:28 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:28 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:28 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 15:44:38 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:38 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:38 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 15:44:41 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:41 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:41 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 15:44:45 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:45 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:45 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 15:44:49 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:44:49 WARN  javac exited with exit code 1[0m
+2025.06.12 15:44:49 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 15:45:04 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:45:04 WARN  javac exited with exit code 1[0m
+2025.06.12 15:45:04 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 15:45:09 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:45:09 WARN  javac exited with exit code 1[0m
+2025.06.12 15:45:09 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 15:52:33 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:52:33 WARN  javac exited with exit code 1[0m
+2025.06.12 15:52:33 INFO  time: compiled demo in 0.94s[0m
+2025.06.12 15:54:55 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:54:55 WARN  javac exited with exit code 1[0m
+2025.06.12 15:54:55 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 15:55:01 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:01 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:01 INFO  time: compiled demo in 0.9s[0m
+2025.06.12 15:55:05 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:05 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:05 INFO  time: compiled demo in 0.85s[0m
+2025.06.12 15:55:09 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:09 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:09 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 15:55:12 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:12 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:12 INFO  time: compiled demo in 0.88s[0m
+2025.06.12 15:55:17 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:17 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:17 INFO  time: compiled demo in 0.83s[0m
+2025.06.12 15:55:45 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:45 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:45 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 15:55:47 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:47 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:47 INFO  time: compiled demo in 0.83s[0m
+2025.06.12 15:55:54 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:54 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:54 INFO  time: compiled demo in 0.88s[0m
+2025.06.12 15:55:55 INFO  compiling demo (14 java sources)[0m
+2025.06.12 15:55:55 WARN  javac exited with exit code 1[0m
+2025.06.12 15:55:55 INFO  time: compiled demo in 0.86s[0m
+2025.06.12 16:16:47 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:16:47 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:16:47 INFO  Shut down connection with build server.[0m
+2025.06.12 16:16:47 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:16:47 INFO  Found a Bloop server running[0m
+2025.06.12 16:16:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:16:47 INFO  time: Connected to build server in 0.14s[0m
+2025.06.12 16:16:47 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:16:50 INFO  time: indexed workspace in 2.2s[0m
+2025.06.12 16:16:50 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:16:50 WARN  javac exited with exit code 1[0m
+2025.06.12 16:16:50 INFO  time: compiled demo in 0.84s[0m
+2025.06.12 16:16:52 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:16:52 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:16:52 INFO  Shut down connection with build server.[0m
+2025.06.12 16:16:52 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:16:52 INFO  Found a Bloop server running[0m
+2025.06.12 16:16:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:16:52 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 16:16:52 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:16:54 INFO  time: indexed workspace in 1.37s[0m
+2025.06.12 16:16:54 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:16:54 WARN  javac exited with exit code 1[0m
+2025.06.12 16:16:54 INFO  time: compiled demo in 0.76s[0m
+2025.06.12 16:19:04 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:19:04 WARN  javac exited with exit code 1[0m
+2025.06.12 16:19:04 INFO  time: compiled demo in 0.89s[0m
+2025.06.12 16:19:09 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:19:09 WARN  javac exited with exit code 1[0m
+2025.06.12 16:19:09 INFO  time: compiled demo in 0.84s[0m
+2025.06.12 16:19:11 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:19:11 WARN  javac exited with exit code 1[0m
+2025.06.12 16:19:11 INFO  time: compiled demo in 0.81s[0m
+2025.06.12 16:19:13 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:19:13 WARN  javac exited with exit code 1[0m
+2025.06.12 16:19:13 INFO  time: compiled demo in 0.85s[0m
+2025.06.12 16:19:14 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:19:14 WARN  javac exited with exit code 1[0m
+2025.06.12 16:19:14 INFO  time: compiled demo in 0.83s[0m
+2025.06.12 16:21:24 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:21:24 WARN  javac exited with exit code 1[0m
+2025.06.12 16:21:24 INFO  time: compiled demo in 0.78s[0m
+2025.06.12 16:26:37 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:37 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:37 INFO  Shut down connection with build server.[0m
+2025.06.12 16:26:37 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:37 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:37 INFO  time: Connected to build server in 0.13s[0m
+2025.06.12 16:26:37 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:38 INFO  time: indexed workspace in 1.33s[0m
+2025.06.12 16:26:38 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:38 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:38 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 16:26:44 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:44 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:44 INFO  Shut down connection with build server.[0m
+2025.06.12 16:26:44 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:44 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:44 INFO  time: Connected to build server in 0.11s[0m
+2025.06.12 16:26:44 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:46 INFO  time: indexed workspace in 1.38s[0m
+2025.06.12 16:26:46 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:46 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:46 INFO  time: compiled demo in 0.85s[0m
+2025.06.12 16:26:46 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:46 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:46 INFO  Shut down connection with build server.[0m
+Jun 12, 2025 4:26:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint notify
+WARNING: Failed to send notification message.
+org.eclipse.lsp4j.jsonrpc.JsonRpcException: java.io.IOException: Broken pipe
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:72)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.notify(RemoteEndpoint.java:135)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.sendCancelNotification(RemoteEndpoint.java:191)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint$1.cancel(RemoteEndpoint.java:160)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.$anonfun$cancel$1(FutureWithTimeout.scala:37)
+	at scala.runtime.java8.JFunction0$mcZ$sp.apply(JFunction0$mcZ$sp.scala:17)
+	at scala.util.Try$.apply(Try.scala:217)
+	at scala.meta.internal.metals.utils.FutureWithTimeout$$anon$1.cancel(FutureWithTimeout.scala:37)
+	at scala.meta.internal.metals.Cancelable$.$anonfun$cancelAll$1(Cancelable.scala:29)
+	at scala.collection.immutable.List.foreach(List.scala:334)
+	at scala.meta.internal.metals.Cancelable$.cancelAll(Cancelable.scala:28)
+	at scala.meta.internal.metals.MutableCancelable.cancel(MutableCancelable.scala:25)
+	at scala.meta.internal.metals.utils.RequestRegistry.cancel(RequestRegistry.scala:99)
+	at scala.meta.internal.metals.BuildServerConnection.cancel(BuildServerConnection.scala:455)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1(BuildServerConnection.scala:179)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$shutdown$1$adapted(BuildServerConnection.scala:171)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1570)
+Caused by: java.io.IOException: Broken pipe
+	at java.base/sun.nio.ch.SocketDispatcher.write0(Native Method)
+	at java.base/sun.nio.ch.SocketDispatcher.write(SocketDispatcher.java:62)
+	at java.base/sun.nio.ch.SocketChannelImpl.tryWrite(SocketChannelImpl.java:1453)
+	at java.base/sun.nio.ch.SocketChannelImpl.blockingWriteFully(SocketChannelImpl.java:1487)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:61)
+	at java.base/sun.nio.ch.SocketOutputStream.write(SocketOutputStream.java:55)
+	at scala.meta.internal.metals.ClosableOutputStream.write(ClosableOutputStream.scala:26)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:139)
+	at java.base/java.io.FilterOutputStream.write(FilterOutputStream.java:110)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageConsumer.consume(StreamMessageConsumer.java:67)
+	... 20 more
+
+2025.06.12 16:26:46 INFO  Scala test classes not supported by server[0m
+2025.06.12 16:26:46 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:46 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:46 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:46 INFO  time: Connected to build server in 0.11s[0m
+2025.06.12 16:26:46 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:48 INFO  time: indexed workspace in 1.09s[0m
+2025.06.12 16:26:48 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:48 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:48 INFO  time: compiled demo in 0.77s[0m
+2025.06.12 16:26:49 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:49 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:49 INFO  Shut down connection with build server.[0m
+2025.06.12 16:26:49 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:49 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:49 INFO  time: Connected to build server in 0.11s[0m
+2025.06.12 16:26:49 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:51 INFO  time: indexed workspace in 1.22s[0m
+2025.06.12 16:26:51 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:51 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:51 INFO  time: compiled demo in 0.87s[0m
+2025.06.12 16:26:52 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:52 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:52 INFO  Shut down connection with build server.[0m
+2025.06.12 16:26:51 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:51 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:52 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:52 INFO  time: Connected to build server in 0.11s[0m
+2025.06.12 16:26:52 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:53 INFO  time: indexed workspace in 1.18s[0m
+2025.06.12 16:26:53 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:53 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:53 INFO  time: compiled demo in 1s[0m
+2025.06.12 16:26:54 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:26:54 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:26:54 INFO  Shut down connection with build server.[0m
+2025.06.12 16:26:54 INFO  Scala test classes not supported by server[0m
+2025.06.12 16:26:54 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:26:54 INFO  Found a Bloop server running[0m
+2025.06.12 16:26:54 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:26:54 INFO  time: Connected to build server in 0.11s[0m
+2025.06.12 16:26:54 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:26:55 INFO  time: indexed workspace in 1.12s[0m
+2025.06.12 16:26:55 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:26:55 WARN  javac exited with exit code 1[0m
+2025.06.12 16:26:55 INFO  time: compiled demo in 0.79s[0m
+2025.06.12 16:28:24 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:28:24 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:28:24 INFO  Shut down connection with build server.[0m
+2025.06.12 16:28:24 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:28:24 INFO  Found a Bloop server running[0m
+2025.06.12 16:28:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:28:25 INFO  time: Connected to build server in 0.19s[0m
+2025.06.12 16:28:24 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:28:25 INFO  time: Imported build in 0.32s[0m
+2025.06.12 16:28:27 INFO  time: indexed workspace in 1.88s[0m
+2025.06.12 16:28:27 INFO  compiling demo (15 java sources)[0m
+2025.06.12 16:28:28 WARN  javac exited with exit code 1[0m
+2025.06.12 16:28:28 INFO  time: compiled demo in 1.11s[0m
+2025.06.12 16:37:22 INFO  Detected new build tool in /Users/achrafibnmrabet/hands-on/bforbank/demo[0m
+2025.06.12 16:37:22 INFO  Disconnecting from Bloop session...[0m
+2025.06.12 16:37:22 INFO  Shut down connection with build server.[0m
+2025.06.12 16:37:22 INFO  Attempting to connect to the build server...[0m
+2025.06.12 16:37:22 INFO  Found a Bloop server running[0m
+2025.06.12 16:37:22 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/bsp.trace.json or /Users/achrafibnmrabet/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.06.12 16:37:22 INFO  time: Connected to build server in 0.12s[0m
+2025.06.12 16:37:22 INFO  Connected to Build server: Bloop v2.0.10[0m
+2025.06.12 16:37:23 INFO  time: indexed workspace in 1.3s[0m
+2025.06.12 16:37:23 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:37:23 WARN  javac exited with exit code 1[0m
+2025.06.12 16:37:23 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 16:40:00 INFO  Created report: Optional[file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java][0m
+2025.06.12 16:40:00 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_16-40-00-751.md")[0m
+2025.06.12 16:40:00 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:00 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:00 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 16:40:04 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_16-40-00-751.md")[0m
+2025.06.12 16:40:04 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:04 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:04 INFO  time: compiled demo in 0.36s[0m
+2025.06.12 16:40:07 INFO  QDox parse error in file:///Users/achrafibnmrabet/hands-on/bforbank/demo/src/main/java/ibn/achraf/demo/BforbankinterviewApplication.java (full report at: "/Users/achrafibnmrabet/hands-on/bforbank/demo/.metals/.reports/metals-full/2025-06-12/r_qdox-error_(demo)_16-40-00-751.md")[0m
+2025.06.12 16:40:07 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:07 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:07 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 16:40:13 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:13 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:13 INFO  time: compiled demo in 0.38s[0m
+2025.06.12 16:40:15 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:15 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:15 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 16:40:24 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:24 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:24 INFO  time: compiled demo in 0.41s[0m
+2025.06.12 16:40:24 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:24 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:24 INFO  time: compiled demo in 0.35s[0m
+2025.06.12 16:40:34 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:34 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:34 INFO  time: compiled demo in 0.39s[0m
+2025.06.12 16:40:36 INFO  no build target found for /org/flywaydb/core/Flyway.java. Using fallback presentation compiler.[0m
+2025.06.12 16:40:41 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:41 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:41 INFO  time: compiled demo in 0.37s[0m
+2025.06.12 16:40:41 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:42 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:42 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 16:40:43 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:40:43 WARN  javac exited with exit code 1[0m
+2025.06.12 16:40:43 INFO  time: compiled demo in 0.82s[0m
+2025.06.12 16:41:23 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:41:23 WARN  javac exited with exit code 1[0m
+2025.06.12 16:41:23 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 16:41:25 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:41:25 WARN  javac exited with exit code 1[0m
+2025.06.12 16:41:25 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 16:41:35 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:41:35 WARN  javac exited with exit code 1[0m
+2025.06.12 16:41:35 INFO  time: compiled demo in 0.8s[0m
+2025.06.12 16:42:14 INFO  compiling demo (14 java sources)[0m
+2025.06.12 16:42:14 WARN  javac exited with exit code 1[0m
+2025.06.12 16:42:14 INFO  time: compiled demo in 0.83s[0m
+2025.06.13 11:04:49 INFO  Shutting down server[0m
+2025.06.13 11:04:49 INFO  shutting down Metals[0m
+2025.06.13 11:04:49 INFO  Shut down connection with build server.[0m
+2025.06.13 11:04:49 INFO  Exiting server[0m

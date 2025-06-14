@@ -1,0 +1,6 @@
+CREATE TABLE USERS_AUTH
+(
+    id SERIAL PRIMARY KEY,
+    username VARCHAR,
+    password VARCHAR
+)
